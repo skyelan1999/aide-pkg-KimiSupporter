@@ -1,0 +1,14 @@
+{
+  "id": "kimi-supporter",
+  "name": "KimiSupporter",
+  "version": "0.1.0",
+  "description": "月之暗面 Kimi 中国区模型的离线人民币费率与兼容宿主的只读账户余额。",
+  "author": "skyelan1999",
+  "license": "MIT",
+  "main": "index.js",
+  "homepage": "https://github.com/skyelan1999/aide-pkg-KimiSupporter",
+  "providerSupport": {
+    "protocol": 1,
+    "catalog": "provider-support.json"
+  }
+}
